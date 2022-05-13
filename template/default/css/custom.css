@@ -1,0 +1,89 @@
+/*
+* @Author: idoalit
+* @Date:   2016-10-08 22:11:10
+* @Last Modified by:   idoalit
+* @Last Modified time: 2016-10-09 08:30:52
+*/
+
+.s-main-search{
+	margin-top: 0%;
+}
+
+.s-nav-header {
+  display: inline-block;
+  text-align: left;
+  padding-right: 40px;
+}
+
+.s-nav-header ul {
+  list-style: none;
+}
+
+.s-nav-header ul li {
+  display: inline-block;
+}
+
+.s-nav-header ul li a img {
+  width: 32px;
+}
+
+.s-nav-header ul li a .nav-text {
+  display: inline-block;
+  margin-right: 8px;
+  margin-left: 2px;
+  vertical-align: middle;
+}
+
+.s-nav-header ul li a span{
+  font-size: 12px;
+  color: #fff;
+  font-weight: bold;
+  line-height: 1;
+  display: block;
+}
+
+.gmd-button {
+  list-style: none;
+}
+
+.gmd-button li {
+  display: inline-block;
+}
+
+.gmd-button li a.btn-img img{
+  width: 110px;
+}
+
+.gmd-button.gmd-button-result {
+  padding-left: 0px;
+  -webkit-padding-start: 0px;
+}
+
+.gmd-button .btn-gmd-result {
+  background: #ccc;
+  color: #fff;
+  margin-right: 4px;
+}
+
+.gmd-button .btn-gmd-result.active {
+  background: #449d44;
+}
+
+.latest-collection {
+  -webkit-padding-start: 20px;
+  padding-left: 20px;
+}
+
+.s-main-content .col-lg-4 .latest-collection li a {
+  padding: 0;
+  background-color: #fff;
+  color: #5bc0de;
+  font-family: sans-serif;
+  text-transform: none;
+  font-size: 11pt;
+  letter-spacing: normal;
+}
+
+.s-main-content .col-lg-4 .latest-collection li a:hover {
+  color: #666;
+}

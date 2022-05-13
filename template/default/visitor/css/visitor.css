@@ -1,0 +1,11 @@
+#counterInfo {
+	color: #000;
+	margin: 5px 0px;
+}
+.slims-visitor--photo {
+	width: 90px;
+}
+#visitorCounterPhoto {
+	border-radius: 50%;
+	width: 99px;
+}

@@ -1,0 +1,20 @@
+
+Visitor Report dengan Chart untuk SLiMS 8 Akasia
+
+INFORMASI
+============
+- Visitor report dengan chart untuk SLiMS 8 ini dimodifikasi dari versi sebelumnya yang dibuat oleh mas Ido Alit (SLiMS 5 & 7)
+- Modifikasi dilakukan oleh Ruswan dari Komunitas SLiMS Sukabumi
+
+
+INSTALASI
+==============
+1. Ekstrak file
+2. Backup terlebih dahulu file visitor_report.php slims anda, caranya: masuk ke folder [slims anda]/admin/modules/reporting/customs/, lalu ganti nama file visitor_report.php menjadi visitor_report_bc.php
+3. Copy - paste file visitor_report.php hasil ekstrak tadi ke dalam folder /admin/modules/reporting/customs
+4. Selesai, anda sekarang sudah bisa melihat grafik pengunjung di menu pelaporan -> statistik pengunjung
+
+
+TAMBAHAN
+===========
+Apabila ada yang hendak ditanyakan lebih lanjut, silahkan kirimkan email ke sukabumikode@gmail.com, dan anda juga bisa melihat informasi terkait pengembagan SLiMS lainnya di situs www.sukabumikode.com
